@@ -1,2 +1,1 @@
-# dbt-cloud-ide-test
-temp test repo for dbt Cloud IDE authz testing - safe to delete
+Temporary dbt project used for authorized security testing of dbt Cloud IDE authorization (bug bounty engagement). Safe to delete.
